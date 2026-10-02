@@ -1,0 +1,31 @@
+.p4config
+
+.vs/...
+.idea/...
+.vscode/...
+
+Binaries/...
+DerivedDataCache/...
+Intermediate/...
+Saved/...
+
+# Local Codex and CodeGraph state
+.codex
+.codegraph
+.codegraph-v2
+
+# Local learning notes and chapter handoff documents
+Docs
+
+*.sln
+*.suo
+*.user
+*.userosscache
+*.VC.db
+*.VC.opendb
+
+*.log
+*.tmp
+
+.DS_Store
+Thumbs.db

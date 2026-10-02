@@ -1,0 +1,9 @@
+{
+	"jsonrpc": "2.0",
+	"id": 2,
+	"error":
+	{
+		"code": -32600,
+		"message": "Missing required Mcp-Session-Id header for 'tools/list'"
+	}
+}

@@ -1,0 +1,49 @@
+# Generated and local Unreal data
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+Artifacts/
+Releases/
+
+# IDE, Perforce client, and local tool state
+.vs/
+.idea/
+.vscode/
+.codex/
+.codegraph/
+.codegraph-v2/
+.grok/
+.kiro/
+.qoder/
+.mcp.json
+.p4config
+Docs/
+
+# Visual Studio and user files
+*.sln
+*.slnx
+*.suo
+*.user
+*.userosscache
+*.VC.db
+*.VC.opendb
+*.DotSettings.user
+
+# Logs, caches, and junk
+*.log
+*.tmp
+*.lnk
+.DS_Store
+Thumbs.db
+nul
+__pycache__/
+*.pyc
+
+# Lighting build data can be regenerated and may exceed GitHub's file limit
+*BuiltData.uasset
+
+# Plugin build outputs
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
